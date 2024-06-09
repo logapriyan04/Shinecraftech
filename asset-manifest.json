@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/shinecraft/static/css/main.af430439.css",
+    "main.js": "/shinecraft/static/js/main.7a8f056f.js",
+    "static/js/453.5ce7ffe5.chunk.js": "/shinecraft/static/js/453.5ce7ffe5.chunk.js",
+    "static/media/image3.jpg": "/shinecraft/static/media/image3.487a5baf93dced40b32e.jpg",
+    "static/media/logo.png": "/shinecraft/static/media/logo.826a5627d7a68275009e.png",
+    "static/media/image2.jpeg": "/shinecraft/static/media/image2.01e962d6e64607b74365.jpeg",
+    "static/media/harabara mais demo.otf": "/shinecraft/static/media/harabara mais demo.9840b64b3d0a745e4345.otf",
+    "static/media/name1.png": "/shinecraft/static/media/name1.c164498ed9ce1349f17b.png",
+    "static/media/deep-learning.png": "/shinecraft/static/media/deep-learning.1ec9a27f33731f5a5a87.png",
+    "static/media/chatbot.png": "/shinecraft/static/media/chatbot.1c5d8e924a4261d7b598.png",
+    "static/media/database.png": "/shinecraft/static/media/database.cfa5f7f32805f7aa1876.png",
+    "static/media/icon1.png": "/shinecraft/static/media/icon1.6894d9fcc94574ab0d75.png",
+    "static/media/icon6.png": "/shinecraft/static/media/icon6.8c0c2d2ad92b28a190a2.png",
+    "static/media/icon8.png": "/shinecraft/static/media/icon8.42099b6124f216f30a82.png",
+    "static/media/solution.png": "/shinecraft/static/media/solution.4482c0ce5543f6760e17.png",
+    "static/media/name2.png": "/shinecraft/static/media/name2.e70912dd42f41263b02b.png",
+    "static/media/coding.png": "/shinecraft/static/media/coding.863d8ee2d4d7c1cd3aff.png",
+    "static/media/design.png": "/shinecraft/static/media/design.f55634e754068b3f71ed.png",
+    "index.html": "/shinecraft/index.html",
+    "main.af430439.css.map": "/shinecraft/static/css/main.af430439.css.map",
+    "main.7a8f056f.js.map": "/shinecraft/static/js/main.7a8f056f.js.map",
+    "453.5ce7ffe5.chunk.js.map": "/shinecraft/static/js/453.5ce7ffe5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af430439.css",
+    "static/js/main.7a8f056f.js"
+  ]
+}
